@@ -194,7 +194,7 @@ change_color.addEventListener("click",()=>{
 
         
     }else{
-        
+            /*DarkMode code*/
         side_bar.style.backgroundColor='black';
         block_1.style.backgroundColor='black';
         block_2.style.backgroundColor='black';
