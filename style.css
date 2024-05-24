@@ -3506,7 +3506,7 @@
 
 
     /*-------------changes added------------------*/
-    @media only screen and (width <=335px){
+    @media only screen and (max-width: 365px){
     .section_body .humburger_menu{
         display: flex;
         flex-direction: column;
